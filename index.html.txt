@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Padrões contra Abuso e Exploração Sexual Infantil</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 2rem;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #d32f2f;
+    }
+    a {
+      color: #1976d2;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Padrões contra Abuso e Exploração Sexual Infantil (CSAE)</h1>
+
+    <p>A <strong>[Nome do App ou Empresa]</strong> condena veementemente qualquer forma de abuso ou exploração sexual infantil. Temos uma política de tolerância zero para conteúdos, comportamentos ou atividades relacionadas a esse tipo de violação.</p>
+
+    <p>Nosso compromisso é claro:</p>
+    <ul>
+      <li>Remover imediatamente qualquer conteúdo suspeito.</li>
+      <li>Encerrar contas envolvidas em atividades ilegais.</li>
+      <li>Cooperar com autoridades legais e organizações de proteção à infância.</li>
+    </ul>
+
+    <p>Se você encontrar qualquer conteúdo suspeito em nosso app, denuncie imediatamente por meio do nosso canal de suporte:</p>
+    <p><strong>Email de contato:</strong> <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></p>
+
+    <p>Saiba mais sobre nossos compromissos em nossos <a href="/politica-de-privacidade">Termos de Uso</a> e <a href="/politica-de-privacidade">Política de Privacidade</a>.</p>
+
+    <p><em>Última atualização: julho de 2025</em></p>
+  </div>
+</body>
+</html>
